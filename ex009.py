@@ -10,5 +10,5 @@ n8 = n * 8
 n9 = n * 9
 n10 = n * 10
 print('A tabuada do número {} é :'.format(n))
-print('x1: {}\nx2: {}\nx3: {}\nx4: {}\nx5: {}'.format(n, n2, n3, n4, n5))
-print('x6: {}\nx7: {}\nx8: {}\nx9: {}\nx10: {}'.format(n6, n7, n8, n9, n10))
+print(' x1: {}\n x2: {}\n x3: {}\n x4: {}\n x5: {}'.format(n, n2, n3, n4, n5))
+print(' x6: {}\n x7: {}\n x8: {}\n x9: {}\n x10: {}'.format(n6, n7, n8, n9, n10))
