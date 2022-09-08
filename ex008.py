@@ -1,4 +1,4 @@
-me = float(input('digite uma distancia para ser convertida '))
+me = float(input('digite uma distancia em metros para ser convertida '))
 cm = me*100
 mm = me*1000
 km = me/1000
